@@ -1,0 +1,20 @@
+{
+"GB": {
+"update_gbhelp_code": "3",
+"reminder_time": "3",
+"insta_themes": "1",
+"update_link": 
+"app_gbinsta": "https://www.mediafire.com/file/akt9tmu0f6g9jxx/GBInsta_v1.90_by_atnfas_hoak.apk/file,v1.90,GBInstagram,com.gbinsta.android",
+"app_insta": "https://www.mediafire.com/file/ees11ff8onkdt6e/GBInstaPlus_v1.90_by_atnfas_hoak.apk/file,v1.90,GBInstagram Plus,com.instagram.android",
+"app_gbwa": "https://www.gbgroupapps.com/GBWA.html,v19,GBWhatsApp,com.gbwhatsapp",
+"app_gbwa3": "https://www.gbgroupapps.com/GBWA3.html,v19,GBWhatsApp3,com.gbwhatsapp3",
+"app_wa": "https://www.gbgroupapps.com/GBWAPlus.html,v19,WhatsApp,com.whatsapp",
+"app_fmwa": "https://www.gbgroupapps.com/FMWA.html,v19,FMWhatsApp,com.fmwhatsapp",
+"app_yowa": "https://www.gbgroupapps.com/YOWA.html,v19,YOWhatsApp,com.yowhatsapp",
+"app_nowa": "https://www.gbgroupapps.com/NOWA.html,v19,NOWhatsApp,com.nowhatsapp",
+"app_nowa3": "https://www.gbgroupapps.com/NOWA3.html,v19,NOWhatsApp3,com.nowhatsapp3",
+"update_message": "
+<li>V2.3</li>
+"
+}
+}
