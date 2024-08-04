@@ -1,9 +1,9 @@
 {
-"version": "10.14.6",
+"version": "10.14.7",
 "title": "تحديث جديد!",
 "NewVersion": "قم بالتحديث",
 "downloadLink": "https://t.co/sG6sXYOb3H",
-"changeLogMessage": "تم حل جميع مشكلة تعليق التطبيق",
+"changeLogMessage": "تم حل مشكلة تعليق التطبيق",
 "negativebtn": "لاحقاً",
 "positivebtn": "تحديث الان",
 "changelogTitle": ""
