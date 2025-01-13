@@ -1,1 +1,1 @@
-
+{'ver1':'11', 'ver2':'0', 'ver3':'\n•[تحديث جديد] يرجى التحديث الان اضغط على تنزيل بالأسفل\n \n' , 'dli':'https://sifwhatsapp.blogspot.com/2025/01/blog-post.html'} 
