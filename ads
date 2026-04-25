@@ -8,8 +8,8 @@
   "after x open": "2",
   "start date": "01/05/2024",
   "end date": "01/07/2028",
-  "must_click": "true",
-  "enable_banner": "true",
-  "enable_notification": "true",
+  "must_click": "false",
+  "enable_banner": "false",
+  "enable_notification": "false",
   "badge_text": "حصري 🌙"
 }
